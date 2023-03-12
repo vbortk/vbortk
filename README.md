@@ -2,7 +2,7 @@
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Computer Vision, Python, Web Development and Data Science & Security
 - 🌱 I’m currently learning Machine Learning and Neural Networks with Python, Java in general
 - 💞️ If you need some extra help with a project, let me know - always open to all collaboration! Would love to work on anything Java specifically :)
-- 📫 Opened this account at 15 so excuse the few blank years hah, but will be making more use of it now
+- 📫 Opened this account at 15 so excuse the few blank years ;(), but will be making more use of it now
 - How to reach me: This github account, for now
 
 <!---

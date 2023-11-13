@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @vbortk
 - 👀 I’m interested in Artificial Intelligence, Machine Learning, Computer Vision, Python, Web Development and Data Science & Security
-- 📫 Using acc mainly for school stuff
+- 📫 Using this account mainly for school at the moment, but also some personal projects
 - How to reach me: This github account, for now
 
 <!---
